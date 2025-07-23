@@ -6,7 +6,7 @@ Added `unsafe_**` files.
 
 ### Datasets
 
-#### ISIC 2019
+#### 1. ISIC 2019
 
 https://challenge.isic-archive.com/data/#2019
 
@@ -15,7 +15,7 @@ Data, 2018
 
 Hernandez-Perez et al. *BCN20000: Dermoscopic lesions in the wild*. Scientific Data, 2024
 
-#### MURA
+#### 2. MURA
 
 https://www.kaggle.com/api/v1/datasets/download/cjinny/mura-v11
 

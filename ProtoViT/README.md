@@ -6,13 +6,13 @@ Added `unsafe_**` files.
 
 ### Datasets
 
-#### CUB-200 (aka Birds)
+#### 1. CUB-200 (aka Birds)
 
 Follow the instructions in https://github.com/Henrymachiyu/ProtoViT?tab=readme-ov-file#cub-200-2011-dataset
 
 Wah et al. *Caltech-UCSD Birds-200-2011*. California Institute of Technology, 2011
 
-#### Out-of-distribution Birds
+#### 2. Out-of-distribution Birds
 
 This is our custom-made set of 2044 images from 13 bird species (classes) coming from the training set of ImageNet-1k.
 Crucially, some ImageNet classes overlap with CUB, e.g. 13 -- junco, 16 -- bulbul, 94 -- hummingbird, 144 -- pelican, 146 -- albatross, and thus we collected 200 images from each of the following classes that we did not find in CUB: 7 -- cock, 8 -- hen, 17 -- jay, 18 -- magpie, 19 -- chickadee, 21 -- kite, 22 -- bald eagle, 23 -- vulture, 24 -- great grey owl, 127 -- white stork, 128 -- black stork, 134 -- crane, 145 -- king penguin.
@@ -20,7 +20,7 @@ We then manually filtered the resulting 2600 images to remove images of low qual
 
 Files can be openly accessed at https://drive.google.com/file/d/131qDSgjl3bFEJ75ovz9dMvcqsU97U861
 
-#### Stanford Cars
+#### 3. Stanford Cars
 
 https://www.kaggle.com/datasets/rickyyyyyyy/torchvision-stanford-cars
 
