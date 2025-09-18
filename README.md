@@ -2,7 +2,7 @@
 
 This repository is a supplement to [the following paper](https://arxiv.org/abs/2503.08636):
 
-> Hubert Baniecki, Przemyslaw Biecek. *Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning*. *arXiv preprint, arXiv:2503.08636*
+> Hubert Baniecki, Przemyslaw Biecek. *Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning*. *Machine Learning*, 2025
 
 
 ### 1. Manipulating ProtoViT for bird species recognition 
@@ -24,7 +24,7 @@ Modified and extended code based on https://github.com/M-Nauta/PIPNet from Nauta
     title   = {Birds look like cars: {A}dversarial analysis of 
                intrinsically interpretable deep learning},
     author  = {Hubert Baniecki and Przemyslaw Biecek},
-    journal = {arXiv preprint, arXiv:2503.08636},
+    journal = {Machine Learning},
     year    = {2025}
 }
 ```
