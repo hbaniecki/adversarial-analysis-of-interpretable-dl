@@ -2,7 +2,7 @@
 
 This repository is a supplement to [the following paper](https://arxiv.org/abs/2503.08636):
 
-> Hubert Baniecki, Przemyslaw Biecek. *Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning*. *Machine Learning*, 2025
+> Hubert Baniecki, Przemyslaw Biecek. *Birds look like cars: Adversarial analysis of intrinsically interpretable deep learning*. **Machine Learning**, 2025
 
 
 ### 1. Manipulating ProtoViT for bird species recognition 
